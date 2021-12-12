@@ -2,7 +2,7 @@
 BERT version by Yu-An Lin
 
 ## Pre-Process data
-Create two folder:Train_only and Public_only
+Create two folder:Train_only and Public_only.
 Run the preprocess.ipynb
 ## 1. Bert Next Sentence Prediction
 Those preprocessed npz files do not need to run again. And the npz file name in ipynb is the same as the file in this folder.
